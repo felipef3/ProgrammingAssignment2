@@ -1,5 +1,5 @@
 
-## This function (makeCacheMatrix) creates a special "matrix", which is really a list containing four functions:
+## This function (makeCacheMatrix) creates a special "matrix", which is really a list containing four functions
 
 
 makeCacheMatrix <- function(x = matrix()) {
